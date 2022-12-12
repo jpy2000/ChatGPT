@@ -19,7 +19,7 @@ Instructions have been moved to the [Wiki](https://github.com/acheong08/ChatGPT/
 
 If you were using this prior to version 0.0.31, please update immediately. `pip3 install revChatGPT --upgrade`. Fixes has been done to avoid bot blocking
 
-# Features
+# iFeatures
 ![image](https://user-images.githubusercontent.com/36258159/205534498-acc59484-c4b4-487d-89a7-d7b884af709b.png)
 - No moderation
 - Programmable.
@@ -36,7 +36,7 @@ If you were using this prior to version 0.0.31, please update immediately. `pip3
 - Documentation for [OpenAIAuth](https://github.com/acheong08/OpenAIAuth)
 - Update documentation for developers (with examples)
 
-# Awesome ChatGPT
+# Awesome ChatGPTs
 [My list](https://github.com/stars/acheong08/lists/awesome-chatgpt)
 
 If you have a cool project you want added to the list, open an issue.
